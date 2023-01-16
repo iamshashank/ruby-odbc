@@ -1,6 +1,6 @@
 This is a forked version of ruby-odbc -v 0.999991. This fork attempts to fix the issues when building this gem with ruby 3.2
 
-# $Id: README,v 1.47 2020/12/25 21:47:43 chw Exp chw $
+$Id: README,v 1.47 2020/12/25 21:47:43 chw Exp chw $
 
 ruby-odbc-0.999991
 
